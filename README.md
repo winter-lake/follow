@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # canvas-drawing-board
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/5SSS/canvas-drawing-board)
@@ -107,3 +108,6 @@ If you like, please give me a star, thank you.
 
 如果需要帮助: QQ:1573815240 邮箱: 1573815240@qq.com
 if you need help: QQ:1573815240 email: 1573815240@qq.com
+=======
+# follow
+>>>>>>> 615a252c34e6169831ff0e8eab8bb206ef25b2bd
