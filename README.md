@@ -92,9 +92,7 @@ board.polygon.addArrow(board)
 - resize
 board.resize()
 
-## Example
 
-![示例](./src/image/example.png)
 
 
 
