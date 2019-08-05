@@ -96,5 +96,5 @@ board.resize()
 
 ![示例](./src/image/example.png)
 
-## PS
+
 
